@@ -16,6 +16,6 @@ Compra: idCompra + idUsuario + idProveedor + TipoDocumento + NumeroDocumento + M
 
 Detalle compra?: idDetalle + idCompra + idProducto + PrecioCompra + PrecioVenta + Cantidad + MontoTotal + FechaRegistro
 
-Venta: idVenta + idUsuario + TipoDocumento + NumeroDocumento + DocumentoCliente + NombreCliente + MontoPago + MontoCambio + MontoTotal + FechaRegistro
+Venta: idVenta + idUsuario + TipoDocumento + NumeroDocumento + DocumentoCliente + Cliente + MontoPago + MontoCambio + MontoTotal + FechaRegistro
 
 Detalle venta?: idDetalleVenta + idVenta + idProducto + PrecioVenta + Cantidad + SubTotal + FechaRegistro
