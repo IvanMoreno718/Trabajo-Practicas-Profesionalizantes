@@ -10,9 +10,9 @@
 
 - El sistema debe contar con una interfaz intuitiva y ágil para facilitar el proceso de ventas.
 
-- Debe incluir una función de búsqueda rápida para encontrar productos de manera eficiente.
+- El sistema debe incluir una función de búsqueda rápida para encontrar productos de manera eficiente.
 
-- Debe ser capaz de generar tickets de venta
+- El sistema debe ser capaz de generar tickets de venta
 
 - El sistema debe almacenar información detallada sobre el historial de compras de los clientes.
 
@@ -64,6 +64,6 @@
 
 - El sistema debe proporcionar informes detallados sobre el rendimiento de ventas, inventario, clientes, etc.
 
-- Debe permitir la personalización de informes según periodo de tiempo
+- El sistema debe permitir la personalización de informes según periodo de tiempo
 
-- Debe permitir la definición de roles y permisos de usuario para controlar el acceso a diferentes funciones y datos dentro del sistema.
+- El sistema debe permitir la definición de roles y permisos de usuario para controlar el acceso a diferentes funciones y datos dentro del sistema.
