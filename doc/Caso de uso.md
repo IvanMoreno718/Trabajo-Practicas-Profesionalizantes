@@ -10,7 +10,7 @@ Camino básico:
 
   
 
-1.  El usuario ingresa el código del producto del que quiere realizar la venta.
+1.  El usuario ingresa el artículo del producto del que quiere realizar la venta.
     
 2.  El sistema muestra el precio del producto y muestra las opciones con las que se puede pagar.
     
@@ -25,10 +25,10 @@ Camino alternativo:
 
   
 
-1.  a. El código del producto ingresado no existe.
+1.  a. El producto ingresado no existe.
     
 
-1.a.1. El sistema muestra el mensaje “Código inexistente”. Vuelve a realizar el paso.
+1.a.1. El sistema muestra el mensaje “Artículo inexistente”. Vuelve a realizar el paso.
 
 3. a. Los datos ingresados son incorrectos.
 
