@@ -14,7 +14,7 @@ Camino básico:
     
 2.  El sistema muestra el precio del producto y muestra las opciones con las que se puede pagar.
     
-3.  El usuario elige una opción y en caso de elegir pagar con tarjeta deberá de ingresar los datos.
+3.  El usuario elige una opción y en caso de elegir pagar con tarjeta deberá de ingresar los datos de la tarjeta del comprador.
     
 4.  El sistema registra la venta y almacena los datos del cliente en la base de datos.
     
