@@ -8,8 +8,6 @@
 
 - El sistema debe ser capaz de realizar operaciones como agregar, actualizar y eliminar productos del inventario.
 
-- El sistema debe contar con una interfaz intuitiva y ágil para facilitar el proceso de ventas.
-
 - El sistema debe incluir una función de búsqueda rápida para encontrar productos de manera eficiente.
 
 - El sistema debe ser capaz de generar tickets de venta
