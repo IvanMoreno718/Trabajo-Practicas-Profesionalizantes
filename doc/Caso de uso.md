@@ -30,9 +30,7 @@ Camino alternativo:
 
 1.a.1. El sistema muestra el mensaje “Artículo inexistente”. Vuelve a realizar el paso.
 
-3. a. Los datos ingresados son incorrectos.
-
-3.a.1. El sistema muestra el mensaje “Los datos ingresados son incorrectos" .Regresa al paso 2
+3. a. Los datos ingresados son incorrectos. Regresa al paso 2
 
   
 
