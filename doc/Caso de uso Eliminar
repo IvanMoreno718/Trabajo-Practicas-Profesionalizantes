@@ -1,0 +1,23 @@
+Caso de uso eliminar artículos.
+
+Actores: Usuario (primario)
+
+Precondiciones: El usuario debe estar logueado en el sistema. Debe haber al menos un artículo.
+
+Camino básico:
+
+El usuario selecciona un artículo
+El sistema muestra el artículo
+El usuario elige la opción “eliminar”
+El sistema muestra una ventana que muestra el texto “Estás seguro que quieres eliminar este artículo” junto a las opciones “si” y “no”
+El usuario elige la opción “si” y el sistema elimina el artículo.
+
+Camino alternativo:
+
+1.a No hay ningún artículo para que el usuario elija
+
+5.a El usuario elige la opción “no”, regresa al paso 1.
+
+Escenario de éxito: El artículo es eliminado exitosamente.
+
+Escenario de fracaso: El articulo no pudo ser eliminado
