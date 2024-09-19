@@ -1,0 +1,24 @@
+Caso de uso Modificar
+
+Actores: Usuario (primario)
+
+Precondiciones: El usuario debe estar logueado en el sistema. Debe haber al menos un artículo.
+
+Camino básico:
+
+El usuario selecciona un artículo.
+El sistema muestra el artículo.
+El usuario elige la opción “Modificar”.
+El sistema muestra los datos del artículo, junto con los botones “Guardar” y “Cancelar”.
+El usuario modifica los datos del artículo y  hace click en el botón de guardar.
+El sistema guarda los cambios.
+
+Camino alternativo:
+
+1.a No hay ningún artículo para que el usuario elija.
+
+5.a El usuario elige la opción “Cancelar”, regresa al paso 1.
+
+Escenario de éxito: Los datos del artículo son modificados exitosamente.
+
+Escenario de fracaso: El artículo no pudo ser modificado.
