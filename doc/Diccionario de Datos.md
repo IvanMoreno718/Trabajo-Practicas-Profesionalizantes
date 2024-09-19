@@ -14,8 +14,8 @@ Producto: idProducto + Codigo + Nombre + Descripcion + idCategoria + Stock + Pre
 
 Compra: idCompra + idUsuario + idProveedor + TipoDocumento + NumeroDocumento + MontoTotal + FechaRegistro
 
-Detalle compra?: idDetalle + idCompra + idProducto + PrecioCompra + PrecioVenta + Cantidad + MontoTotal + FechaRegistro
+Detalle compra: idDetalle + idCompra + idProducto + PrecioCompra + PrecioVenta + Cantidad + MontoTotal + FechaRegistro
 
 Venta: idVenta + idUsuario + TipoDocumento + NumeroDocumento + DocumentoCliente + NombreCliente + MontoPago + MontoCambio + MontoTotal + FechaRegistro
 
-Detalle venta?: idDetalleVenta + idVenta + idProducto + PrecioVenta + Cantidad + SubTotal + FechaRegistro
+Detalle venta: idDetalleVenta + idVenta + idProducto + PrecioVenta + Cantidad + SubTotal + FechaRegistro
