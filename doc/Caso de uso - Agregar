@@ -1,0 +1,10 @@
+Caso de uso: Agregar articulos.
+Actores: Usuario. (primario).
+Precondiciones: El usuario debe estar logueado en el sistema
+Camino básico:
+El usuario abre el apartado de agregación.
+El sistema muestra el formulario y pide que ingrese los datos del artículo.
+El usuario llena el formulario y carga el artículo.
+
+Escenario de éxito: El sistema registra el artículo.
+Escenario de fracaso: El sistema no pudo registrar el artículo.
