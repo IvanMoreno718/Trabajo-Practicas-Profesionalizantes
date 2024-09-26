@@ -12,7 +12,7 @@ Categoria: idCategoria + Descripcion + Estado + FechaRegistro
 
 Producto: idProducto + Codigo + Nombre + Descripcion + idCategoria + Stock + PrecioCompra + PrecioVenta + Estado + FechaRegistro
 
-Compra: idCompra + idUsuario + idProveedor + TipoDocumento + NumeroDocumento + MontoTotal + FechaRegistro
+CompraProveedor: idCompra + idUsuario + idProveedor + TipoDocumento + NumeroDocumento + MontoTotal + FechaRegistro
 
 Detalle compra: idDetalle + idCompra + idProducto + PrecioCompra + PrecioVenta + Cantidad + MontoTotal + FechaRegistro
 
