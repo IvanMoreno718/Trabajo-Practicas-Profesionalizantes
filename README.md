@@ -19,7 +19,6 @@ El Sistema de Ventas para Librerías es una aplicación desarrollada en Visual S
 - Microsoft SQL Server
 - Visual Basic Studio
 
-- 
 ## Instalación
 - Descargar el archivo de instalación del sistema.
 
